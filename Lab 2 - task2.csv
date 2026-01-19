@@ -1,0 +1,16 @@
+student_id,name,course,quiz1,quiz2,assignment,midterm,final,attendance,semester
+4001,Ali Khan,Mathematics,8,7,18,25,45,90,1
+4002,Sara Ahmed,Physics,7,,15,20,40,85,1
+4003,Omar Malik,Chemistry,9,8,NaN,28,48,95,1
+4004,Ayesha Khan,Mathematics,6,5,14,22,NaN,80,1
+4005,Usman Iqbal,Physics,11,7,18,26,49,105,1
+4006,Hina Raza,Chemistry,8,8,17,27,-10,92,1
+4007,Zain Ali,Mathematics,7,7,16,23,44,88,1
+4008,Nadia Khan,Physics,NaN,6,15,21,39,82,1
+4009,Fahad Iqbal,Chemistry,8,7,16,25,47,90,1
+4010,Maryam Ali,Mathematics,7,6,14,22,42,80,1
+4011,Ali Khan,Mathematics,8,7,18,25,45,90,1
+4012,Hassan Raza,Physics,6,5,13,20,38,75,1
+4013,Fatima Malik,Chemistry,9,8,19,30,50,98,1
+4014,Omar Khan,Mathematics,5,6,12,18,35,70,1
+4015,Sara Ahmed,Physics,7,7,15,21,40,85,1

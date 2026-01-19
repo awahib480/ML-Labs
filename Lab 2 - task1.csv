@@ -1,0 +1,12 @@
+order_id,order_date,product,category,price,quantity,city,payment_method
+1001,2024-01-05,Laptop,NaN,120000,1,Karachi,Credit Card
+1002,2024-01-06,Mobile Phone,Electronics,60000,2,Lahore,Cash on Delivery
+1003,2024-01-07,Headphones,Accessories,5000,3,Islamabad,Debit Card
+1004,2024-01-10,Office Chair,Furniture,25000,1,khi,Credit Card
+1005,2024-02-02,Laptop,Electronics,120000,1,Lahore,Credit Card
+1006,2024-02-05,Desk,Furniture,40000,1,Islamabad,Cash on Delivery
+1007,2024-02-15,Mobile Phone,Electronics,60000,1,Karachi,Debit Card
+1008,2024-03-01,Monitor,Electronics,30000,2,Lahore,Credit Card
+1009,2024-03-05,Headphones,Accessories,5000,4,KARACHI,Cash on Delivery
+1010,2024-03-10,Desk Lamp,Accessories,3000,2,Islamabad,Debit Card
+1010,2024-03-10,Desk Lamp,Accessories,3000,2,Islamabad,Debit Card
